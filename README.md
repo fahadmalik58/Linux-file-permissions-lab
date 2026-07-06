@@ -6,27 +6,6 @@ This project is intended for educational purposes and can be performed on Ubuntu
 
 ---
 
-# Table of Contents
-
-- Project Overview
-- Objectives
-- Learning Outcomes
-- Technologies Used
-- Project Structure
-- Prerequisites
-- Installation
-- Lab Exercises
-- Permission Commands
-- Permission Examples
-- Security Best Practices
-- Screenshots
-- Troubleshooting
-- Future Improvements
-- Author
-- License
-
----
-
 # Project Overview
 
 Linux uses a permission-based security model that controls access to files and directories.
